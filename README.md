@@ -278,6 +278,8 @@ the IR stage assign line numbers once to ensure that everything si consistent. A
 
 # Cite
 
+I haven't submitted VCC to any conferences or journals; just want it to be publicly available:
+
     @article{zhang2026vcc,
       title={View-oriented Conversation Compiler for Agent Trace Analysis},
       author={Lvmin Zhang and Maneesh Agrawala},
